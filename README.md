@@ -5,7 +5,7 @@ Interactive math professor with increasing difficulty levels. Based on the toy [
 
 [Little Professor video demonstration](https://www.youtube.com/watch?v=ZuJwzH9BIgs)
 
-## Examples
+## Example
 ![image](https://github.com/Aeziren/math-professor/assets/123553708/6d5b6eb1-23e4-4fad-871d-274a3211dbff)
 
 
